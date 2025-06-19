@@ -43,15 +43,20 @@ For demo purposes, the app uses:
 ## Screenshots
 
 ## Welcome view
-![screenshot_welcome](https://github.com/user-attachments/assets/96a70799-d8db-45bd-a351-178a2fe39b5f)
+![screenshot_welcome](https://github.com/user-attachments/assets/d3d89362-38fa-42ea-9e9b-759ad30bf8b3)
 
 ## Patient view
-![screenshot_patient1](https://github.com/user-attachments/assets/b8dd5528-b0a9-4748-b834-e5c5e4c1028e)
+![screenshot_patient1](https://github.com/user-attachments/assets/1b7220c1-a59b-4427-96a9-8de517ed5bf4)
+
 ##
-![screenshot_patient2](https://github.com/user-attachments/assets/875ddb63-8216-4e56-b5b1-ce2d741f9e71)
+![screenshot_patient2](https://github.com/user-attachments/assets/379e8f7d-3319-43d2-9e5b-5a6ddfe6dda6)
 
 ## Doctor view
-![screenshot_doctor](https://github.com/user-attachments/assets/4676a55b-c48c-449c-add8-ab7e53d1ac3f)
+![screenshot_doctor1](https://github.com/user-attachments/assets/ff41ff61-b3d4-44da-97db-f49ea00cb48c)
+
+##
+![screenshot_doctor2](https://github.com/user-attachments/assets/9cbdd049-b636-4a28-a7ab-4fc2e4e1ccb1)
+
 
 ---
 
