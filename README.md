@@ -1,4 +1,4 @@
-# 🇳🇬 VoiceBridge Naija 🗣️
+# 🇳🇬 VoiceBridge Naija
 Breaking language barriers in Nigerian healthcare using AI-powered voice and intonation/dialect retaining translation.
 
 **Category**: AI-Powered Solutions  
@@ -10,7 +10,7 @@ Breaking language barriers in Nigerian healthcare using AI-powered voice and int
 
 In many Nigerian hospitals, patients cannot describe their symptoms effectively due to language barriers. Doctors and patients struggle to communicate, which leads to misdiagnoses and poor healthcare outcomes. 
 
-The idea of this app was conceived after I got to know about an incident of a wrong drug prescription after a doctor misunderstood his patient while explaining his ailment.
+The idea of this app was conceived after I got to know about an incident of a wrong drug prescription when a doctor misunderstood his patient while explaining his ailment.
 
 ---
 
@@ -25,7 +25,7 @@ The idea of this app was conceived after I got to know about an incident of a wr
 - Patients record symptoms in Yoruba, Igbo, or Hausa
 - AI translates and transcribes it into English (for the doctor's better understanding)
 - Doctor responds in English
-- Reply is translated back into the patient’s language and played in audio 
+- Reply is translated back into the patient’s language and played in audio (for patient's better understanding) 
 - Smooth role switch between patient and doctor
 - Audio auto-plays to simulate natural communication
 
