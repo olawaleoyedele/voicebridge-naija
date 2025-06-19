@@ -1,4 +1,4 @@
-# VoiceBridge Naija 🗣️🇳🇬
+# 🇳🇬 VoiceBridge Naija 🗣️
 Breaking language barriers in Nigerian healthcare using AI-powered voice and intonation/dialect retaining translation.
 
 **Category**: AI-Powered Solutions  
