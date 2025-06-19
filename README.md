@@ -55,7 +55,8 @@ For demo purposes, the app uses:
 
 ---
 
-Creator
-Abdullah Oyedele
-3MTT Fellow — FE/23/36975866
-@oyedeleabdullah
+**Creator** - Abdullah Oyedele
+
+**3MTT Fellow** - FE/23/36975866
+
+**X handle** - @oyedeleabdullah
