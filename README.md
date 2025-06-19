@@ -42,7 +42,7 @@ For demo purposes, the app uses:
 
 ## Screenshots
 
-## Welcome view**
+## Welcome view
 ![screenshot_welcome](https://github.com/user-attachments/assets/96a70799-d8db-45bd-a351-178a2fe39b5f)
 
 ## Patient view
