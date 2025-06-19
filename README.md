@@ -47,6 +47,7 @@ For demo purposes, the app uses:
 
 ## Patient view
 ![screenshot_patient1](https://github.com/user-attachments/assets/b8dd5528-b0a9-4748-b834-e5c5e4c1028e)
+##
 ![screenshot_patient2](https://github.com/user-attachments/assets/875ddb63-8216-4e56-b5b1-ce2d741f9e71)
 
 ## Doctor view
