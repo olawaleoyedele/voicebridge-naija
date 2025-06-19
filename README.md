@@ -53,4 +53,9 @@ For demo purposes, the app uses:
 ## Doctor view
 ![screenshot_doctor](https://github.com/user-attachments/assets/4676a55b-c48c-449c-add8-ab7e53d1ac3f)
 
+---
 
+Creator
+Abdullah Oyedele
+3MTT Fellow — FE/23/36975866
+@oyedeleabdullah
